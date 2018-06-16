@@ -1,9 +1,15 @@
 # Simple Network Management Protocol - Dokumentacja Projektu
+
 Nazwa projektu: Web application for monitoring Linux OS resources (CPU, RAM, disk space, disk utilization) using SNMP agents
+
 Technologia: HTML, JS, Digital Ocean server
+
 Autorzy: Maciej Łobodziński, Michał Śmiałko
+
 Data: 16/06/2018
+
 Kierunek: Informatyka IV Niestacjonarne
+
 Projekt na Githubie: https://github.com/Moriquendi/snmp-simple-dashboard
 
 - - - -
